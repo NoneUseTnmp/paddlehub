@@ -1,3 +1,4 @@
+#預測句子為正面或負面
 !pip install snownlp
 !pip install -U textblob
 !python -m textblob.download_corpora
